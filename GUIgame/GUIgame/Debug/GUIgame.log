@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AI.cpp
+c:\users\ola44\source\repos\guigame\guigame\ai.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\ola44\source\repos\guigame\guigame\ai.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\ola44\source\repos\guigame\guigame\ai.cpp(74): warning C4101: 'error': unreferenced local variable
+  AssetManager.cpp
+  Game.cpp
+  GameOverState.cpp
+  GameState.cpp
+  MainMenuState.cpp
+  PauseState.cpp
+  SplashState.cpp
+  StateMachine.cpp
+  main.cpp
+  Generating Code...
+  GUIgame.vcxproj -> C:\Users\ola44\source\repos\GUIgame\GUIgame\..\..\..\..\OneDrive\Pulpit\SFML\SFML-2.5.1\GUIgame.exe
